@@ -56,7 +56,7 @@ If this policy is updated, the "Last updated" date at the top of this page will 
 
 If you have any questions about this Privacy Policy, please open an issue at:
 
-**https://github.com/YOUR_USERNAME/SITimetable/issues**
+**https://github.com/jialung/SITimetable/issues**
 
 ---
 
